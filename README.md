@@ -2,6 +2,10 @@
 
 ![](https://github.com/abdul-ameer/Powerbi_EcommerceSalesDashboard/blob/main/Capture.PNG)
 
+## Objective :
+
+   Owner of ABC Store wants us to help them create a dashboard to track and analyze their online sales across India
+
 ## My Learnings:
 
 • Created interactive dashboard to track and analyze online sales data
